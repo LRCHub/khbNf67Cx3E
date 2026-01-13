@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SUPA DUPA LUV",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-01-13T10:20:29.447481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SUPA DUPA LUV",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/01_SUPA_DUPA_LUV_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUPA DUPA LUV (Paused)",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/02_SUPA_DUPA_LUV_(Paused)_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Rain (Supa Dupa Fly)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_The_Rain_(Supa_Dupa_Fly)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Rain (Supa Dupa Fly)",
+      "artist": "Missy (Misdemeanor) Elliott",
+      "has_synced": true,
+      "path": "select/04_The_Rain_(Supa_Dupa_Fly)_Missy_(Misdemeanor)_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Rain (Supa Dupa Fly)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_The_Rain_(Supa_Dupa_Fly)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Supa Dupa",
+      "artist": "Terror Reid",
+      "has_synced": true,
+      "path": "select/06_Supa_Dupa_Terror_Reid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Rain (Supa Dupa Fly)",
+      "artist": "Missy Misdemeanor Elliott",
+      "has_synced": true,
+      "path": "select/07_The_Rain_(Supa_Dupa_Fly)_Missy_Misdemeanor_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Supa Dupa Fly 2018",
+      "artist": "W&W",
+      "has_synced": true,
+      "path": "select/08_Supa_Dupa_Fly_2018_W&W.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Supa Dupa Fly",
+      "artist": "Da Tweekaz",
+      "has_synced": true,
+      "path": "select/09_Supa_Dupa_Fly_Da_Tweekaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Supa Dupa Fly",
+      "artist": "Da Tweekaz",
+      "has_synced": false,
+      "path": "select/10_Supa_Dupa_Fly_Da_Tweekaz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Supa Dupa",
+      "artist": "K.O",
+      "has_synced": true,
+      "path": "select/11_Supa_Dupa_K.O.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Supa Dupa Fly (XXL Remix)",
+      "artist": "666",
+      "has_synced": false,
+      "path": "select/12_Supa_Dupa_Fly_(XXL_Remix)_666.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPA DUPA LUV",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_SUPA_DUPA_LUV_BABYMONSTER.txt"
+    }
+  ]
+}
